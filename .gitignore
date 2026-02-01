@@ -1,0 +1,6 @@
+*.ovpn
+*.key
+*.env
+secrets.json
+__pycache__/
+.DS_Store
