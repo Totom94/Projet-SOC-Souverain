@@ -22,7 +22,7 @@ Le workflow suit la logique **Détecter -> Analyser -> Répondre** :
 
 > 📥 **[Accéder au fichier source du Workflow (JSON)](https://github.com/Totom94/Projet-SOC-Souverain/blob/main/n8n/workflow-soc-ia-pfsense.json)**
 
-"Le workflow n8n n'est pas un simple relai : il assure le dédoublonnage des alertes, l'enrichissement via Cortex et la décision de blocage automatique via l'IA locale."
+*Le workflow n8n n'est pas un simple relai : il assure le dédoublonnage des alertes, l'enrichissement via Cortex et la décision de blocage automatique via l'IA locale.*
 
 
 | Composant | Rôle |
