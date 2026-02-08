@@ -17,8 +17,10 @@ Ce projet consiste en la mise en place d'un **Centre d'Opérations de Sécurité
 
 ## 🚀 Stack Technologique & Flux
 Le workflow suit la logique **Détecter -> Analyser -> Répondre** :
+
 <img width="2390" height="732" alt="Capture d&#39;écran 2026-02-07 130149" src="https://github.com/user-attachments/assets/1609b58b-9c3a-4a9a-b2c8-47523fb70379" />
 
+Le workflow n8n n'est pas un simple relai : il assure le dédoublonnage des alertes, l'enrichissement via Cortex et la décision de blocage automatique via l'IA locale.
 
 | Composant | Rôle |
 | :--- | :--- |
